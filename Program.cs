@@ -10,7 +10,7 @@ namespace HelloooWorld
             List<string> strlist = new List<string>();
             strlist.Add("test");
             strlist.Add("of");
-            strlist.Add("Netcore");
+            strlist.Add("Netcore2");
 
             foreach(var str in strlist)
             {
