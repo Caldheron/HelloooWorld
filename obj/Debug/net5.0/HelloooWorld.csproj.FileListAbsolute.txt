@@ -1,0 +1,16 @@
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.exe
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.deps.json
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.runtimeconfig.json
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.runtimeconfig.dev.json
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.dll
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\ref\HelloooWorld.dll
+D:\Création\2.Code\HelloooWorld\bin\Debug\net5.0\HelloooWorld.pdb
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.csprojAssemblyReference.cache
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.AssemblyInfoInputs.cache
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.AssemblyInfo.cs
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.csproj.CoreCompileInputs.cache
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.dll
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\ref\HelloooWorld.dll
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.pdb
+D:\Création\2.Code\HelloooWorld\obj\Debug\net5.0\HelloooWorld.genruntimeconfig.cache
